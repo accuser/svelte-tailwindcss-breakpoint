@@ -14,7 +14,7 @@ Add Breakpoint to the root layout to display the breakpoint helper in developmen
 
 ```svelte
 <script>
-  import { Breakpoint } from '@accuser/breakpoint';
+	import { Breakpoint } from '@accuser/breakpoint';
 </script>
 
 <Breakpoint />
