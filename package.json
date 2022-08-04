@@ -1,5 +1,5 @@
 {
-	"name": "@accuser/svelte-breakpoint",
+	"name": "@accuser/breakpoint",
 	"description": "A simple breakpoint utility for SvelteKit and TailwindCSS",
 	"version": "0.1.0",
 	"scripts": {
