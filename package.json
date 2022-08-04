@@ -1,7 +1,25 @@
 {
 	"name": "@accuser/breakpoint",
-	"description": "A simple breakpoint utility for SvelteKit and TailwindCSS",
 	"version": "0.1.0",
+	"description": "A simple breakpoint utility for SvelteKit and TailwindCSS",
+	"keywords": [
+    "svelte",
+    "sveltekit",
+		"tailwindcss"
+  ],
+	"homepage": "https://github.com/accuser/svelte-tailwindcss-breakpoint/README.md",
+  "bugs": {
+    "url": "https://github.com/accuser/svelte-tailwindcss-breakpoint/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Matthew Gibbons",
+    "url": "https://github.com/accuser"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/accuser/svelte-tailwindcss-breakpoint.git"
+  },
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
